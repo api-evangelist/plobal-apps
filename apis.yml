@@ -1,9 +1,26 @@
 aid: plobal-apps
 name: Plobal Apps
-description: 'Plobal Apps is a company surfaced as a portfolio company of bessemer-venture-partners and
-  added to the API Evangelist network as a stub for enrichment. Sector: cloud. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: 'Plobal Apps is a no-code mobile app builder for Shopify merchants that
+  turns online stores into native iOS and Android shopping apps without engineering.
+  The platform offers drag-and-drop app design with HTML/CSS/JavaScript code blocks,
+  push-notification marketing campaigns, live selling, AI-powered product recommendations,
+  advanced search and smart filtering, and real-time analytics tracking 60+ in-app
+  actions, plus omnichannel flows such as in-app ordering with in-store pickup. It
+  installs through the Shopify App Store and is used by direct-to-consumer brands to
+  grow mobile commerce revenue and customer retention.'
 url: https://raw.githubusercontent.com/api-evangelist/plobal-apps/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/647f0cc0d7283da7752a69a7/647f0dbd3d065963eeb3f0ea_logo.svg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +29,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Cloud
+- Mobile
+- eCommerce
+- Shopify
+- Mobile Commerce
+- Push Notifications
+- App Builder
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +46,22 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/plobal-apps-domain-security.yml
 - type: Website
   url: https://www.plobalapps.com/
+- type: Blog
+  url: https://blog.plobalapps.com/
+- type: Support
+  url: https://plobalapps.freshdesk.com/support/home
+- type: SignUp
+  url: https://apps.shopify.com/plobalapps-mobile-application
+- type: TermsOfService
+  url: https://www.plobalapps.com/terms-of-use
+- type: PrivacyPolicy
+  url: https://www.plobalapps.com/privacy-policy
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
