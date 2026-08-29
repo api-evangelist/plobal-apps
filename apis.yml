@@ -9,6 +9,17 @@ description: 'Plobal Apps is a no-code mobile app builder for Shopify merchants 
   installs through the Shopify App Store and is used by direct-to-consumer brands to
   grow mobile commerce revenue and customer retention.'
 url: https://raw.githubusercontent.com/api-evangelist/plobal-apps/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
