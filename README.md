@@ -64,6 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Plobal Apps is a company surfaced as a portfolio company of bessemer-venture-partners and added to the API Evangelist network as a stub for enrichment. Sector: cloud. This profile is a lead awaiting the enrichment pipeline.
+Plobal Apps is a no-code mobile app builder for Shopify merchants that turns online stores into native iOS and Android shopping apps without engineering. The platform offers drag-and-drop app design with HTML/CSS/JavaScript code blocks, push-notification marketing campaigns, live selling, AI-powered product recommendations, advanced search and smart filtering, and real-time analytics tracking 60+ in-app actions, plus omnichannel flows such as in-app ordering with in-store pickup. It installs through the Shopify App Store and is used by direct-to-consumer brands to grow mobile commerce revenue and customer retention.
 
-Backed by: bessemer-venture-partners — https://www.plobalapps.com/
+**Areas:** Company · Cloud · Mobile · E-Commerce · Shopify · Mobile Commerce · Push Notifications · App Builder
+
+## Plobal Apps on APIs.io
+
+Everything profiled for Plobal Apps is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/plobal-apps/](https://apis.io/providers/plobal-apps/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Plobal Apps Domain Security](https://apis.io/security/plobal-apps/plobal-apps-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.plobalapps.com/)
+- [Sign up](https://apps.shopify.com/plobalapps-mobile-application)
+- [Support](https://plobalapps.freshdesk.com/support/home)
+- [Blog](https://blog.plobalapps.com/)
+- [Terms of service](https://www.plobalapps.com/terms-of-use)
+- [Privacy policy](https://www.plobalapps.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 11.7** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 1.2 |
+| Access clarity | 34.2 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/plobal-apps/](https://apis.io/providers/plobal-apps/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Plobal Apps: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/plobal-apps/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
